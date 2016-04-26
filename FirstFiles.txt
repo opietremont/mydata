@@ -2,5 +2,10 @@ Ceci est mon premier fichier texte
 Ceci est un test
 Ceci a été réalisé dans le cadre d'un apprentissage
 
+<<<<<<< HEAD
 #Test de modification concurrente :
 Ceci est une modification tierce
+=======
+Test de Branches :
+Edition du fichier et inclusion dans la nouvelle branche
+>>>>>>> MyBranch
