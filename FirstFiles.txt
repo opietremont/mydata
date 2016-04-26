@@ -3,6 +3,8 @@ Ceci est un test
 Ceci a été réalisé dans le cadre d'un apprentissage
 
 <<<<<<< HEAD
+
+
 #Test de modification concurrente :
 Ceci est une modification tierce
 =======
