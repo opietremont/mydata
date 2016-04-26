@@ -2,3 +2,5 @@ Ceci est mon premier fichier texte
 Ceci est un test
 Ceci a été réalisé dans le cadre d'un apprentissage
 
+Test de Branches :
+Edition du fichier et inclusion dans la nouvelle branche
